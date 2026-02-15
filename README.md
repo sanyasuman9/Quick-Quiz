@@ -49,4 +49,19 @@ The project is designed to strengthen Python fundamentals and logical thinking t
 
 ---
 
+## 🎓 Learning Purpose  
+This project was created to practice Python basics and build logical thinking through a small interactive application.  
+It is ideal for beginners learning Python and starting with simple projects.
+
+---
+
+## 🔮 Future Improvements  
+- Add more questions dynamically  
+- Add timer for each question  
+- Store high scores  
+- Add GUI using Tkinter or Streamlit  
+- Convert into web-based quiz  
+
+---
+
 License: MIT © 2025 Sanya Suman
