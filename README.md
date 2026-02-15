@@ -47,3 +47,6 @@ The project is designed to strengthen Python fundamentals and logical thinking t
 2. Copy the code into a file named `quizz.py`  
 3. Run the file:
 
+---
+
+License: MIT © 2025 Sanya Suman
