@@ -44,6 +44,6 @@ The project is designed to strengthen Python fundamentals and logical thinking t
 
 ## ▶️ How to Run  
 1. Make sure Python is installed.  
-2. Copy the code into a file named `quiz_game.py`  
+2. Copy the code into a file named `quizz.py`  
 3. Run the file:
 
